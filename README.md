@@ -1,2 +1,3 @@
 # Core
-Learning Core MVC
+Learning Core
+This project is designed to learn core 
