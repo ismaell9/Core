@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\BlazorProject\\Blazor\\Blazor.csproj": {}
+    "G:\\Core\\BlazorProject\\Blazor\\Blazor.csproj": {}
   },
   "projects": {
-    "D:\\Github\\BlazorProject\\Blazor\\Blazor.csproj": {
+    "G:\\Core\\BlazorProject\\Blazor\\Blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\BlazorProject\\Blazor\\Blazor.csproj",
+        "projectUniqueName": "G:\\Core\\BlazorProject\\Blazor\\Blazor.csproj",
         "projectName": "Blazor",
-        "projectPath": "D:\\Github\\BlazorProject\\Blazor\\Blazor.csproj",
-        "packagesPath": "C:\\Users\\som3a\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\BlazorProject\\Blazor\\obj\\",
+        "projectPath": "G:\\Core\\BlazorProject\\Blazor\\Blazor.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "G:\\Core\\BlazorProject\\Blazor\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\som3a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +26,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\uxdivers.grial": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.uxdivers.com/grial": {}
         },
         "frameworks": {
           "net8.0": {
